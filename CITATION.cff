@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as indicated."
+title: "Multilingual university news dataset (English, Kurdish, Arabic) and crawler scripts"
+version: "2025"
+doi: ""
+authors:
+  - family-names: "przhaB"
+    given-names: ""
+date-released: "2025-08-24"
+url: "https://github.com/przhaB/Multilingual-News-Dataset"
