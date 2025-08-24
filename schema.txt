@@ -1,0 +1,8 @@
+id: integer, primary key
+title: string, article title
+content: string, article full text (cleaned)
+link: string, original article URL
+language: string, 'en' or 'ar' or 'ku'
+url_hash: string, SHA-256 hash of link (deduplication)
+source: string, origin site/university identifier
+created_at: datetime, ingestion timestamp (UTC)
