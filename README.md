@@ -6,10 +6,10 @@ Multilingual news dataset (English, Kurdish, Arabic) for academic news recommend
 
 This repository contains a multilingual news dataset collected from public news pages of seven Kurdistan university websites. The dataset and accompanying crawler code are provided to support reproducible research in multilingual news recommendation and information retrieval.
 
-- Total articles: 1,150  
-  - English (en): 500  
-  - Arabic (ar): 350  
-  - Kurdish (ku): 300
+- Total articles: 1,374  
+  - English (en): 592  
+  - Arabic (ar):283 
+  - Kurdish (ku): 499
 
 Collection dates and per-site details are provided in `README_EXTRA.md` (collection_dates and per-site notes).
 
